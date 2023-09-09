@@ -1,0 +1,26 @@
+.categories-sec{
+    width:600px;
+}
+
+.custom-label{
+    margin-bottom:3px;
+}
+
+#main-category-container, .subcategory-container{
+    margin-bottom: 14px;
+    padding:5px;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+#main-category-container label, .subcategory-container label{
+    background-color: #54b2a7c2;
+    width:30%;
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+}
+
+#main-category-container label{
+    background-color: #4f87d1c2;
+}
